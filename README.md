@@ -125,3 +125,8 @@ Blog post:
 ## Star History <a name = "star_history"></a>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=madawei2699/myGPTReader&type=Date)](https://star-history.com/#madawei2699/myGPTReader&Date)
+
+---
+
+Maintained by the creator of **MyInvestPilot**  
+https://www.myinvestpilot.com
